@@ -28,6 +28,7 @@ module.exports = {
         hardhat: {
             chainId: 1337,
             blockConfirmation: 1,
+            saveDeployments: true,
         },
         sepolia: {
             url: SEPOLIA_RPC_URL,

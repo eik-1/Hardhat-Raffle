@@ -131,6 +131,6 @@ In it's current state, if you have your api key set, it will auto verify sepolia
 
 If you appreciated this, feel free to follow me or donate!
 
-ETH/Polygon/Avalanche/etc Address: 0x143C4BEEf05eeB3eFb9062A96Af96C0564d3FBd4
+ETH Address: 0x143C4BEEf05eeB3eFb9062A96Af96C0564d3FBd4
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/) [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz) [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
